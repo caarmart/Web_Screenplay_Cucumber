@@ -1,5 +1,12 @@
 ## Web automation
 
+### Web automation with Screenplay + Cucumber using the different actions:
+- Clicks
+- Links
+- Pop-up windows
+- Scrolls
+- Selects
+
 ### Used tools/stacks in this project
 
 * Cucumber
