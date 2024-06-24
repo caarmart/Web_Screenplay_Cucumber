@@ -7,9 +7,9 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        features = "src/test/resources/feature/selects.feature",
+        features = "src/test/resources/feature/amazonsearching.feature",
         glue = {"stepdefinition"},
-        snippets = SnippetType.CAMELCASE
-)
-public class Selects {
+        snippets = SnippetType.CAMELCASE)
+
+public class Amazon {
 }
