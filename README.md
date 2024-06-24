@@ -1,11 +1,8 @@
 ## Web automation
 
-### Web automation with Screenplay + Cucumber using the different actions:
-- Clicks
-- Links
-- Pop-up windows
-- Scrolls
-- Selects
+### Web automation with Screenplay, BDD(Cucumber) and gradle dependency manager using Selenium to execute the Amazon page tests on the Google Chrome browser.
+
+SDK version linked to the project: 1.8
 
 ### Used tools/stacks in this project
 
@@ -17,10 +14,6 @@
 
 ### Highlighted logics
 
-* JavascriptExecutor actions
-* WebElementStateMatchers
-* WebElementQuestion
-* Some complex Xpath/CSS selector
-* Actions for right click
-* Switching windows
-* Switch case in lambda mode
+* Serenity.properties
+* Select
+* ItemIsAvailable
